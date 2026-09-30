@@ -1,0 +1,15 @@
+data file            95R/ExperimentalData_95R.csv
+material model       HystereticSM
+optimizer            DE
+objective preset     Balanced
+generations          100 run of 100
+protocol points      4876
+run time (min)       3.97
+objective J          0.236787
+NRMSE (% of peak force) 15.90
+E_exp                94409.039986
+E_sim                99151.588403
+E_sim / E_exp        1.0502
+peak error (% of peak force) 6.41
+peak force exp (+/-) 247.6900 / -242.5042
+peak force sim (+/-) 255.8774 / -248.6015

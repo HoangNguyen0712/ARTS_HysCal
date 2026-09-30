@@ -1,0 +1,15 @@
+data file            HSSW/HSSWCase2b_2.txt
+material model       Pinching4
+optimizer            GA
+objective preset     Balanced
+generations          38 run of 100
+protocol points      4874
+run time (min)       1.20
+objective J          0.201970
+NRMSE (% of peak force) 10.68
+E_exp                28947.346677
+E_sim                30763.294157
+E_sim / E_exp        1.0627
+peak error (% of peak force) 7.80
+peak force exp (+/-) 75.5520 / -70.4202
+peak force sim (+/-) 64.0629 / -58.5419

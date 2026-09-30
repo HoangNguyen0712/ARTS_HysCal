@@ -1,0 +1,5 @@
+"Preset (we, wp)",NRMSE,Esim/Eexp,Peak error,Peaks sim (+ / −)
+"Force history (0, 0)",5.3 %,0.93,6.2 %,118 / -122
+"Balanced (0.5, 1)",6.3 %,0.99,3.7 %,126 / -139
+"Energy (1.5, 0.5)",5.8 %,0.99,5.2 %,117 / -134
+"Backbone / peaks (0.5, 3)",8.1 %,0.97,6.0 %,140 / -146

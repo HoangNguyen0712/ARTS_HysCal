@@ -22,7 +22,7 @@ Standalone applications (no Python installation needed):
 
 <!-- If the executables are hosted elsewhere (Zenodo, group web page), put the link and DOI here. -->
 
-The user guideline (theory, methodology, step-by-step use, troubleshooting) is in [`docs/`](docs/).
+The user guideline (theory, methodology, step-by-step use, troubleshooting) is included with the application.
 The source code is not distributed.
 
 ## Contents of this repository
@@ -36,7 +36,6 @@ results/
   Table3_objective_presets.csv   Table 3 of the paper
   test_descriptors.csv     the descriptors of the three tests quoted in Section 4.1
   figures/                 Figs. 3 and 5-8 (PDF and PNG)
-docs/                      user guideline
 ```
 
 ### Tests
