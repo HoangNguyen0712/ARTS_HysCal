@@ -1,0 +1,15 @@
+data file            65/ExperimentalData_65.csv
+material model       Pinching4
+optimizer            GA
+objective preset     Balanced
+generations          23 run of 100
+protocol points      5099
+run time (min)       1.16
+objective J          0.199178
+NRMSE (% of peak force) 12.59
+E_exp                16327.526246
+E_sim                16618.597334
+E_sim / E_exp        1.0178
+peak error (% of peak force) 6.33
+peak force exp (+/-) 143.7186 / -149.0764
+peak force sim (+/-) 143.3931 / -155.5753

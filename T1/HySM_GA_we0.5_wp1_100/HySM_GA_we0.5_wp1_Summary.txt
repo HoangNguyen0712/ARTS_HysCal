@@ -1,0 +1,15 @@
+data file            65/ExperimentalData_65.csv
+material model       HystereticSM
+optimizer            GA
+objective preset     Balanced
+generations          32 run of 100
+protocol points      5099
+run time (min)       1.31
+objective J          0.133972
+NRMSE (% of peak force) 6.52
+E_exp                16327.526246
+E_sim                16079.971362
+E_sim / E_exp        0.9848
+peak error (% of peak force) 5.40
+peak force exp (+/-) 143.7186 / -149.0764
+peak force sim (+/-) 146.8310 / -153.1713
