@@ -1,7 +1,7 @@
 {
  "test": "T2",
  "data_file": "95R/ExperimentalData_95R.csv",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T2/HySM_GA_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T2/HySM_GA_we0.5_wp1_100",
  "model": "HSM",
  "optimizer": "GA",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 1.048986796667141,
   "peak_error": 0.06073074094989554
  },
- "time_s": 74.07213187217712,
+ "time_s": 75.43856382369995,
  "Fmax_exp": [
   247.6899809,
   -242.504214

@@ -1,7 +1,7 @@
 {
  "test": "T3",
  "data_file": "HSSW/HSSWCase2b_2.txt",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T3/P4_GA_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T3/P4_GA_we0.5_wp1_100",
  "model": "P4",
  "optimizer": "GA",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 1.062732778230612,
   "peak_error": 0.07796156836182867
  },
- "time_s": 72.11958503723145,
+ "time_s": 73.91018891334534,
  "Fmax_exp": [
   75.55204759,
   -70.42024494

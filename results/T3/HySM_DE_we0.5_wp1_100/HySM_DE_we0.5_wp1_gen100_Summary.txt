@@ -1,0 +1,15 @@
+data file            HSSW/HSSWCase2b_2.txt
+material model       HystereticSM
+optimizer            DE
+objective preset     Balanced
+generations          100 run of 100
+protocol points      4874
+run time (min)       4.10
+objective J          0.095089
+NRMSE (% of peak force) 5.28
+E_exp                28947.346677
+E_sim                30425.633081
+E_sim / E_exp        1.0511
+peak error (% of peak force) 2.76
+peak force exp (+/-) 75.5520 / -70.4202
+peak force sim (+/-) 63.4348 / -77.5284

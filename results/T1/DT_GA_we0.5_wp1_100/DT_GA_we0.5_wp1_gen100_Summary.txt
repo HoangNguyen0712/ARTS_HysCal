@@ -1,0 +1,15 @@
+data file            65/ExperimentalData_65.csv
+material model       DowelType
+optimizer            GA
+objective preset     Balanced
+generations          55 run of 100
+protocol points      5099
+run time (min)       0.86
+objective J          0.113554
+NRMSE (% of peak force) 4.82
+E_exp                16327.526246
+E_sim                17166.565781
+E_sim / E_exp        1.0514
+peak error (% of peak force) 5.63
+peak force exp (+/-) 143.7186 / -149.0764
+peak force sim (+/-) 141.9493 / -141.9036

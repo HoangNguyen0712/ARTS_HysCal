@@ -1,7 +1,7 @@
 {
  "test": "T3",
  "data_file": "HSSW/HSSWCase2b_2.txt",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T3/DT_DE_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T3/DT_DE_we0.5_wp1_100",
  "model": "DT",
  "optimizer": "DE",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 1.0166090243952988,
   "peak_error": 0.03493911472992989
  },
- "time_s": 115.68938326835632,
+ "time_s": 117.98905611038208,
  "Fmax_exp": [
   75.55204759,
   -70.42024494

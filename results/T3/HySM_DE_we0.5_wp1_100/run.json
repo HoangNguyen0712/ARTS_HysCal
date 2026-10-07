@@ -1,7 +1,7 @@
 {
  "test": "T3",
  "data_file": "HSSW/HSSWCase2b_2.txt",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T3/HySM_DE_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T3/HySM_DE_we0.5_wp1_100",
  "model": "HSM",
  "optimizer": "DE",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 1.0510681141472529,
   "peak_error": 0.02756224456999903
  },
- "time_s": 236.81404209136963,
+ "time_s": 245.8286430835724,
  "Fmax_exp": [
   75.55204759,
   -70.42024494

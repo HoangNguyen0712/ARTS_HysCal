@@ -1,7 +1,7 @@
 {
  "test": "T1",
  "data_file": "65/ExperimentalData_65.csv",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T1/P4_DE_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T1/P4_DE_we0.5_wp1_100",
  "model": "P4",
  "optimizer": "DE",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 1.008164140878327,
   "peak_error": 0.0705349460146715
  },
- "time_s": 228.9045479297638,
+ "time_s": 232.20021891593933,
  "Fmax_exp": [
   143.7185943,
   -149.076379

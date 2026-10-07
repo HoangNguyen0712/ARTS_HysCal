@@ -1,7 +1,7 @@
 {
  "test": "T1",
  "data_file": "65/ExperimentalData_65.csv",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T1/DT_GA_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T1/DT_GA_we0.5_wp1_100",
  "model": "DT",
  "optimizer": "GA",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 1.0513880377281606,
   "peak_error": 0.05633389598939405
  },
- "time_s": 50.722395181655884,
+ "time_s": 51.66721200942993,
  "Fmax_exp": [
   143.7185943,
   -149.076379

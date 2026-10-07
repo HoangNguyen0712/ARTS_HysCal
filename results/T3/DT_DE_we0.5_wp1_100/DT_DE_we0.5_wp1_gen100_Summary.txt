@@ -1,0 +1,15 @@
+data file            HSSW/HSSWCase2b_2.txt
+material model       DowelType
+optimizer            DE
+objective preset     Balanced
+generations          100 run of 100
+protocol points      4874
+run time (min)       1.97
+objective J          0.075067
+NRMSE (% of peak force) 3.74
+E_exp                28947.346677
+E_sim                29428.133864
+E_sim / E_exp        1.0166
+peak error (% of peak force) 3.49
+peak force exp (+/-) 75.5520 / -70.4202
+peak force sim (+/-) 76.0093 / -75.8452

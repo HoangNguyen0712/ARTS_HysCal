@@ -1,7 +1,7 @@
 {
  "test": "T1",
  "data_file": "65/ExperimentalData_65.csv",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T1/HySM_DE_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T1/HySM_DE_we0.5_wp1_100",
  "model": "HSM",
  "optimizer": "DE",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 0.9822369387231228,
   "peak_error": 0.04397968958385024
  },
- "time_s": 246.08891606330872,
+ "time_s": 250.00440979003906,
  "Fmax_exp": [
   143.7185943,
   -149.076379

@@ -1,7 +1,7 @@
 {
  "test": "T1",
  "data_file": "65/ExperimentalData_65.csv",
- "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results/T1/DT_DE_we0.5_wp1_100",
+ "folder": "/Users/dachoang/Desktop/CalibrationTool/Manuscript/TestResults/results_rerun/T1/DT_DE_we0.5_wp1_100",
  "model": "DT",
  "optimizer": "DE",
  "preset": "Balanced",
@@ -26,7 +26,7 @@
   "energy_ratio": 1.055520253789912,
   "peak_error": 0.0560903683084867
  },
- "time_s": 114.73727583885193,
+ "time_s": 119.94339728355408,
  "Fmax_exp": [
   143.7185943,
   -149.076379
