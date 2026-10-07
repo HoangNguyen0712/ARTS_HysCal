@@ -8,7 +8,7 @@ initial values are estimated from the test itself; the search uses differential 
 followed by a local refinement. The method and its validation are described in:
 
 > H. D. Nguyen, Q. Mei, Y. H. Chui, *ARTS_HysCal: an automated tool for calibrating OpenSees hysteretic material models to
-> cyclic test data*, Advances in Engineering Software (submitted). <!-- update with volume/DOI when available -->
+> cyclic test data*, (submitted). <!-- update with volume/DOI when available -->
 
 Developed by Hoang D. Nguyen, ARTS Group, University of Alberta (dachoang@ualberta.ca).
 
