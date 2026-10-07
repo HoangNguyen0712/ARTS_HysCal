@@ -87,10 +87,12 @@ Software: OpenSeesPy 3.8.0, SciPy 1.18.0, Python 3.14.
 
 ## Citing
 
-If you use the tool or these data, please cite the paper above and, for the genetic-algorithm procedure it builds on:
+If you use the tool or these data, please cite this repository:
 
-> H. D. Nguyen, Q. Mei, Y. H. Chui, A genetic algorithm-based calibration procedure for hysteresis loops in timber structures,
-> Engineering Structures 346 (2026) 121622. https://doi.org/10.1016/j.engstruct.2025.121622
+> H. D. Nguyen, Q. Mei, Y. H. Chui, ARTS_HysCal: automated calibration of OpenSees hysteretic material models to cyclic test
+> data (2026). https://github.com/HoangNguyen0712/ARTS_HysCal
+
+<!-- add the journal paper here when it is published -->
 
 ## Licence
 
