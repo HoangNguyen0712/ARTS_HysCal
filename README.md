@@ -14,20 +14,28 @@ Developed by Hoang D. Nguyen, ARTS Group, University of Alberta (dachoang@ualber
 
 ## Download the tool
 
-Standalone applications (no Python installation needed) are in the [`release/`](release) folder:
+Standalone applications (no Python installation needed):
 
-| Platform | File | Notes |
+| Platform | Download | Size |
 |---|---|---|
-| macOS (Apple Silicon, M1 or later) | [`ARTS_HysCal_macOS.zip`](https://github.com/HoangNguyen0712/ARTS_HysCal/raw/main/release/ARTS_HysCal_macOS.zip) (81 MB) | see *First start on macOS* below |
-| Windows 10/11 (64-bit) | coming soon | |
+| macOS (Apple Silicon, M1 or later) | [`ARTS_HysCal_macOS.zip`](https://github.com/HoangNguyen0712/ARTS_HysCal/raw/main/release/ARTS_HysCal_macOS.zip) (in the [`release/`](release) folder) | 81 MB |
+| Windows 10/11 (64-bit) | [`ARTS_HysCal_Win.exe`](https://drive.google.com/drive/folders/1hhAJ85QVONTCejVouf7m1rKkDNQZRvXY?usp=share_link) (Google Drive) | 307 MB |
 
-**First start on macOS.** Unzip the file and move `ARTS_HysCal.app` to *Applications* (optional). The app is not signed with an
+Each application is complete in itself: Python, OpenSees and all libraries are inside it, and nothing else has to be
+installed or kept next to it. Your test data can be in any folder; the results are written next to the data file.
+
+**macOS.** Unzip the file and open `ARTS_HysCal.app` (it can be moved to *Applications*). The app is not signed with an
 Apple Developer ID, so the first time right-click the app → **Open** → **Open**. If macOS reports that the app "is damaged" or
-"cannot be opened", run once in Terminal (in the folder that contains the app):
+"cannot be opened", run once in Terminal, in the folder that contains the app:
 
 ```
 xattr -cr ARTS_HysCal.app
 ```
+
+**Windows.** Download `ARTS_HysCal_Win.exe` and double-click it. Google Drive cannot scan files of this size for viruses and
+asks for confirmation: choose **Download anyway**. The file is not signed, so the first time Windows may show "Windows protected
+your PC": click **More info** → **Run anyway**. The program unpacks itself at every start, so the first window may take
+up to about a minute to appear.
 
 This version runs until **8 April 2027**; an updated version will be posted here.
 
@@ -36,7 +44,7 @@ The source code is not distributed.
 ## Contents of this repository
 
 ```
-release/                   the standalone applications
+release/                   the macOS application (the Windows version is on Google Drive, see above)
 data/                      the three cyclic tests used in the paper (two columns: displacement [mm], force [kN])
 results/
   T1/, T2/, T3/            the calibrations of Table 2: 3 material models x {DE, GA}, Balanced preset, 100 generations

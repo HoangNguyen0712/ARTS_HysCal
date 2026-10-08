@@ -1,0 +1,3 @@
+# the Windows build (307 MB) is on Google Drive; GitHub rejects files over 100 MB
+release/*.exe
+.DS_Store
