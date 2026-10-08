@@ -104,4 +104,17 @@ If you use the tool or these data, please cite this repository:
 
 ## Licence
 
-Data and results in this repository: CC BY 4.0 <!-- confirm -->. The application is distributed under its own terms (see the About panel).
+**Data and results** (`data/`, `results/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+You may use and share them, with attribution (see *Citing*).
+
+**Application** (`release/` and the Windows download): free of charge for research, teaching and
+engineering practice. Copyright © 2025–2026 Hoang D. Nguyen, University of Alberta. All rights reserved.
+See [LICENSE.md](LICENSE.md) for the terms. In short:
+- Redistribution is allowed only by linking to this repository; the application may not be modified,
+  decompiled or reverse-engineered.
+- The software is provided "as is", without warranty of any kind. Calibrated parameters must be
+  checked by the user before they are used in a structural model or in design.
+- OpenSeesPy, NumPy, SciPy, Matplotlib, PyGAD and Pillow are included under their own licences.
+- The source code is not distributed.
+
+Contact: dachoang@ualberta.ca
