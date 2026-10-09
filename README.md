@@ -39,7 +39,6 @@ up to about a minute to appear.
 
 This version runs until **8 April 2027**; an updated version will be posted here.
 
-The source code is not distributed.
 
 ## Contents of this repository
 
@@ -115,6 +114,5 @@ See [LICENSE.md](LICENSE.md) for the terms. In short:
 - The software is provided "as is", without warranty of any kind. Calibrated parameters must be
   checked by the user before they are used in a structural model or in design.
 - OpenSeesPy, NumPy, SciPy, Matplotlib, PyGAD and Pillow are included under their own licences.
-- The source code is not distributed.
 
 Contact: dachoang@ualberta.ca
